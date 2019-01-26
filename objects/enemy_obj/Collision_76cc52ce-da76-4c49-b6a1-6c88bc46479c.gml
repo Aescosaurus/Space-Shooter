@@ -4,4 +4,4 @@
 instance_create_layer( x,y,"Instances",enemy_explosion_obj )
 
 instance_destroy( other )
-instance_destroy( id )
+instance_destroy()

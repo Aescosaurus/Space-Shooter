@@ -8,3 +8,8 @@ if( y > activation_y && abs( center_diff ) > 10 )
 	if( center_diff > 0 ) x -= move_speed_x * get_delta_time()
 	else if( center_diff < 0 ) x += move_speed_x * get_delta_time()
 }
+
+if( y - height > room_height )
+{
+	instance_destroy()
+}
