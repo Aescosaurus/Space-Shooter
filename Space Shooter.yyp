@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "83d34840-d125-44c6-97b2-5beff788cc3f",
+            "Value": {
+                "id": "bb29b19a-3023-4d36-9109-d37ae3a210dc",
+                "resourcePath": "objects\\enemy_obj\\enemy_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "94021044-d2be-4d5e-81ec-3d9d38978f2c",
             "Value": {
                 "id": "2972795c-5b03-4296-82e6-f31724a77ac9",
@@ -196,6 +204,22 @@
                 "id": "3c5995c0-740a-4201-86b8-26ace03ab8de",
                 "resourcePath": "objects\\laser_obj\\laser_obj.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b740da75-4d1f-49b3-b2bc-91325664ac1d",
+            "Value": {
+                "id": "fb5c7623-1aae-4388-afc7-d53bdfdaa7c9",
+                "resourcePath": "objects\\enemy_explosion_obj\\enemy_explosion_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c16936c7-bbd4-4f40-a54c-8d49734e2134",
+            "Value": {
+                "id": "b385f87f-6855-42a0-ab3e-743221aed878",
+                "resourcePath": "sprites\\enemy_explosion_spr\\enemy_explosion_spr.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -244,6 +268,14 @@
                 "id": "38b74af2-2da4-47bd-a087-abace19f5408",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fc588acc-29dc-44c0-80f9-18a97d0e772a",
+            "Value": {
+                "id": "152fabdf-dc25-4cf5-a511-ba13f4189243",
+                "resourcePath": "sprites\\enemy_spr\\enemy_spr.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
