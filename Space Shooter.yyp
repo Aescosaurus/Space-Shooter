@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "21198b54-4082-4ef4-8267-f54fabaa9f3b",
+            "Value": {
+                "id": "6eded233-f2b0-4a59-9f45-687f16cb51c1",
+                "resourcePath": "sprites\\enemy_ship_spr\\enemy_ship_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "21c5dc85-8252-4b03-ada7-18dd8b0907ab",
             "Value": {
                 "id": "0f4c2c4c-4ea7-4f9e-a699-236b88bbe6b0",
@@ -151,6 +159,14 @@
             }
         },
         {
+            "Key": "66207786-167a-40e1-963b-443e8d3d11d7",
+            "Value": {
+                "id": "5d22b87c-e23c-41a5-8355-5fc6b3949ffe",
+                "resourcePath": "objects\\enemy_ship_obj\\enemy_ship_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6699906e-736e-4409-b6ab-a33716710684",
             "Value": {
                 "id": "354c6b95-4006-49d3-9228-6b78f0463459",
@@ -186,7 +202,7 @@
             "Key": "83d34840-d125-44c6-97b2-5beff788cc3f",
             "Value": {
                 "id": "bb29b19a-3023-4d36-9109-d37ae3a210dc",
-                "resourcePath": "objects\\enemy_obj\\enemy_obj.yy",
+                "resourcePath": "objects\\enemy_spinner_obj\\enemy_spinner_obj.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -322,7 +338,7 @@
             "Key": "fc588acc-29dc-44c0-80f9-18a97d0e772a",
             "Value": {
                 "id": "152fabdf-dc25-4cf5-a511-ba13f4189243",
-                "resourcePath": "sprites\\enemy_spr\\enemy_spr.yy",
+                "resourcePath": "sprites\\enemy_spinner_spr\\enemy_spinner_spr.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -337,10 +353,10 @@
     ],
     "script_order": [
         "2d236019-24c6-4e7e-b979-207b3a057c69",
-        "4e0584a9-403b-4d9c-bff8-80ba6e3ad303",
+        "d1818d80-4d3f-43d5-a6d7-8cd275611b16",
         "4c7cc1e5-79f4-4c41-b8bc-b20907cb3692",
-        "25766f10-cb40-406c-8921-f8d93f213c5d",
-        "d1818d80-4d3f-43d5-a6d7-8cd275611b16"
+        "4e0584a9-403b-4d9c-bff8-80ba6e3ad303",
+        "25766f10-cb40-406c-8921-f8d93f213c5d"
     ],
     "tutorial": ""
 }

@@ -10,10 +10,12 @@ if( wave_spawn_timer >= time_between_waves )
 	var x_spawn_pos = x_enemy_spawns[spawn_index]
 	var y_spawn_pos = y_enemy_spawns[spawn_index]
 	
+	var rand_enemy = enemy_types[random_range(
+		0,enemy_type_count )]
 	for( var i = 0; i < enemies_per_wave; ++i )
 	{
 		instance_create_layer( x_spawn_pos,
 			y_spawn_pos - enemy_spacing * i,
-			"Instances",enemy_obj )
+			"Instances",rand_enemy )
 	}
 }

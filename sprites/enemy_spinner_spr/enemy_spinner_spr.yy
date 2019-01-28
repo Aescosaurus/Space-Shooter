@@ -2,7 +2,7 @@
     "id": "fc588acc-29dc-44c0-80f9-18a97d0e772a",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "enemy_spr",
+    "name": "enemy_spinner_spr",
     "For3D": false,
     "HTile": false,
     "VTile": false,

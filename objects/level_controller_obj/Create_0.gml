@@ -22,3 +22,8 @@ enemy_spacing = 32
 
 wave_spawn_timer = 0.0
 time_between_waves = 3.7
+
+enemy_types[0] = enemy_spinner_obj
+enemy_types[1] = enemy_ship_obj
+
+enemy_type_count = array_length_1d( enemy_types )
